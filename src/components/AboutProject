@@ -1,0 +1,4 @@
+(Nitorconnect) is the management app to manage the different fields like customer , billing, marketing etc.
+In this particular app their is an login page which will land you to the Dashboard page,
+In Dashboard page you will see four cards each one is clickable and their you can manage that particular card data.
+logout functionality is their on using that you will land back to the login page.
